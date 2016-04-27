@@ -1,0 +1,5 @@
+2016-04-27 12:36:30 FATAL HelloExample:41 - This is fatal : mkyong
+2016-04-27 12:41:22 ERROR HelloExample2:27 - Sorry, something wrong!
+java.lang.ArithmeticException: / by zero
+	at tutoriallog4j.HelloExample2.divide(HelloExample2.java:35)
+	at tutoriallog4j.HelloExample2.main(HelloExample2.java:25)
